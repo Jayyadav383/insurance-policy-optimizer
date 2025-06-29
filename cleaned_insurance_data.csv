@@ -1,0 +1,255 @@
+Age,Premium_INR,Customer_Vintage,Existing_Insurance,Region,Vehicle_Age,Vehicle_Damage,Policy_Type,Coverage_Lakhs
+44,4045,217,No,28.0,> 2 Years,Risky,Health,20
+76,3353,183,No,3.0,1-2 Year,Good,Comprehensive,10
+47,3829,27,No,28.0,> 2 Years,Risky,Accident Cover,10
+21,2861,203,Yes,11.0,< 1 Year,Good,Accident Cover,20
+29,2749,39,Yes,41.0,< 1 Year,Good,Accident Cover,15
+24,263,176,No,33.0,< 1 Year,Risky,Comprehensive,10
+23,2336,249,No,11.0,< 1 Year,Risky,Accident Cover,5
+56,3203,72,No,28.0,1-2 Year,Risky,Comprehensive,20
+24,2761,28,Yes,3.0,< 1 Year,Good,Comprehensive,25
+32,2877,80,Yes,6.0,< 1 Year,Good,Accident Cover,15
+47,4757,46,No,35.0,1-2 Year,Risky,Health,15
+24,4869,289,Yes,50.0,< 1 Year,Good,Comprehensive,25
+41,3140,221,Yes,15.0,1-2 Year,Good,Comprehensive,10
+76,3677,15,No,28.0,1-2 Year,Risky,Term Life,10
+71,4681,58,Yes,28.0,1-2 Year,Good,Accident Cover,25
+37,263,147,No,6.0,1-2 Year,Risky,Term Life,20
+25,2621,256,No,45.0,< 1 Year,Risky,Term Life,25
+25,4662,299,Yes,35.0,< 1 Year,Good,Accident Cover,5
+42,3366,158,No,28.0,1-2 Year,Risky,Term Life,15
+60,3236,102,No,33.0,1-2 Year,Risky,Accident Cover,5
+65,4118,116,No,28.0,1-2 Year,Risky,Accident Cover,20
+49,5079,177,No,28.0,1-2 Year,Risky,Health,20
+23,4528,232,Yes,50.0,< 1 Year,Good,Comprehensive,20
+44,4185,60,No,28.0,1-2 Year,Risky,Health,15
+34,3811,180,Yes,15.0,1-2 Year,Good,Health,20
+21,6196,72,Yes,28.0,< 1 Year,Good,Health,25
+51,3834,49,No,28.0,1-2 Year,Risky,Health,15
+26,1913,57,Yes,6.0,< 1 Year,Good,Health,25
+25,2794,223,Yes,8.0,< 1 Year,Good,Health,10
+57,2567,232,No,11.0,1-2 Year,Risky,Comprehensive,20
+26,263,136,No,8.0,< 1 Year,Good,Accident Cover,20
+79,5744,222,No,28.0,1-2 Year,Risky,Term Life,20
+48,3695,149,No,28.0,1-2 Year,Risky,Health,10
+24,4312,49,No,36.0,< 1 Year,Risky,Comprehensive,5
+32,2763,169,Yes,30.0,< 1 Year,Good,Term Life,25
+41,3003,88,Yes,36.0,1-2 Year,Good,Term Life,25
+71,4090,253,Yes,8.0,1-2 Year,Good,Comprehensive,15
+25,7625,107,Yes,28.0,< 1 Year,Good,Term Life,20
+45,4229,264,No,8.0,1-2 Year,Risky,Health,10
+72,3221,233,Yes,41.0,1-2 Year,Good,Health,25
+30,2455,45,No,30.0,< 1 Year,Risky,Comprehensive,15
+54,3856,184,No,28.0,1-2 Year,Good,Term Life,25
+27,2107,251,No,41.0,< 1 Year,Good,Term Life,25
+38,263,153,Yes,35.0,1-2 Year,Good,Accident Cover,15
+26,3113,186,Yes,30.0,< 1 Year,Good,Term Life,10
+56,3461,71,No,28.0,1-2 Year,Risky,Accident Cover,20
+29,3292,34,Yes,15.0,< 1 Year,Good,Term Life,10
+51,3376,83,Yes,26.0,1-2 Year,Good,Health,10
+25,3866,12,No,15.0,< 1 Year,Good,Comprehensive,20
+48,3823,246,No,3.0,1-2 Year,Good,Comprehensive,10
+22,1505,141,No,50.0,< 1 Year,Good,Comprehensive,20
+22,3067,216,No,16.0,< 1 Year,Risky,Term Life,10
+49,2555,130,Yes,3.0,1-2 Year,Good,Accident Cover,10
+78,4949,282,Yes,41.0,1-2 Year,Good,Term Life,25
+44,4541,73,No,28.0,1-2 Year,Risky,Health,10
+20,2538,171,No,47.0,< 1 Year,Risky,Health,15
+39,5758,141,No,28.0,1-2 Year,Risky,Term Life,15
+54,2520,283,No,28.0,1-2 Year,Risky,Comprehensive,10
+62,263,295,No,48.0,1-2 Year,Risky,Accident Cover,15
+29,3546,165,Yes,3.0,< 1 Year,Good,Comprehensive,25
+49,263,30,No,8.0,1-2 Year,Risky,Accident Cover,25
+20,3661,218,No,50.0,< 1 Year,Risky,Term Life,15
+62,3383,130,No,28.0,> 2 Years,Risky,Accident Cover,10
+58,3966,141,Yes,19.0,1-2 Year,Good,Health,25
+39,3784,22,No,15.0,1-2 Year,Risky,Comprehensive,15
+59,3442,147,No,30.0,1-2 Year,Risky,Term Life,20
+41,4226,36,No,28.0,1-2 Year,Risky,Health,15
+60,6633,73,No,28.0,1-2 Year,Risky,Term Life,20
+63,6173,79,Yes,28.0,1-2 Year,Good,Health,20
+50,263,81,No,41.0,1-2 Year,Risky,Term Life,20
+44,4648,100,No,47.0,1-2 Year,Risky,Accident Cover,25
+27,3458,63,No,11.0,< 1 Year,Risky,Health,5
+23,4037,242,Yes,39.0,< 1 Year,Good,Comprehensive,20
+50,2778,277,Yes,28.0,1-2 Year,Good,Comprehensive,10
+59,2786,39,No,23.0,1-2 Year,Good,Comprehensive,20
+59,3564,136,Yes,26.0,1-2 Year,Good,Accident Cover,20
+67,3199,61,Yes,28.0,1-2 Year,Good,Accident Cover,15
+27,3551,111,Yes,33.0,< 1 Year,Good,Comprehensive,20
+29,4256,167,No,28.0,1-2 Year,Risky,Health,15
+77,4065,183,Yes,37.0,1-2 Year,Good,Health,25
+54,3549,74,No,26.0,1-2 Year,Risky,Comprehensive,15
+28,3852,235,Yes,28.0,< 1 Year,Good,Comprehensive,10
+39,3473,131,Yes,8.0,1-2 Year,Good,Comprehensive,25
+39,3176,141,No,5.0,1-2 Year,Risky,Accident Cover,25
+69,2980,158,No,28.0,1-2 Year,Risky,Accident Cover,10
+21,2775,243,No,17.0,< 1 Year,Risky,Accident Cover,5
+54,3287,248,No,47.0,> 2 Years,Risky,Health,20
+25,2353,58,No,23.0,< 1 Year,Risky,Comprehensive,10
+23,2760,114,Yes,35.0,< 1 Year,Good,Comprehensive,25
+20,4627,281,No,36.0,< 1 Year,Risky,Term Life,20
+25,3155,62,Yes,50.0,< 1 Year,Good,Comprehensive,25
+26,3179,189,Yes,30.0,< 1 Year,Good,Health,20
+77,3609,139,No,28.0,1-2 Year,Risky,Term Life,20
+28,263,138,No,41.0,1-2 Year,Good,Term Life,10
+23,4164,209,No,15.0,< 1 Year,Risky,Accident Cover,25
+23,2668,254,No,30.0,< 1 Year,Good,Accident Cover,5
+50,4699,291,No,28.0,1-2 Year,Risky,Comprehensive,25
+62,4189,114,No,28.0,> 2 Years,Risky,Term Life,15
+21,3427,79,No,2.0,< 1 Year,Risky,Health,10
+24,263,68,Yes,7.0,< 1 Year,Risky,Accident Cover,25
+52,3603,92,Yes,28.0,1-2 Year,Good,Accident Cover,15
+24,2813,52,Yes,3.0,< 1 Year,Good,Comprehensive,20
+20,3322,78,No,30.0,< 1 Year,Risky,Health,5
+22,3981,156,Yes,8.0,< 1 Year,Good,Term Life,5
+29,4304,222,Yes,41.0,< 1 Year,Risky,Accident Cover,15
+44,5052,22,No,28.0,1-2 Year,Risky,Accident Cover,25
+23,3667,158,Yes,41.0,< 1 Year,Good,Accident Cover,10
+31,2886,247,No,29.0,1-2 Year,Risky,Term Life,20
+72,2869,216,Yes,46.0,1-2 Year,Risky,Accident Cover,20
+45,263,275,No,35.0,1-2 Year,Risky,Comprehensive,25
+27,3142,77,Yes,8.0,< 1 Year,Good,Term Life,25
+48,3737,139,No,46.0,> 2 Years,Risky,Health,20
+33,2499,181,Yes,30.0,< 1 Year,Good,Comprehensive,25
+50,3427,229,No,30.0,1-2 Year,Risky,Term Life,10
+28,3283,275,Yes,30.0,< 1 Year,Good,Term Life,15
+32,3481,166,No,46.0,1-2 Year,Risky,Comprehensive,10
+69,263,16,No,46.0,1-2 Year,Risky,Term Life,25
+32,2283,295,Yes,27.0,< 1 Year,Good,Comprehensive,15
+23,3798,23,Yes,29.0,< 1 Year,Good,Comprehensive,25
+23,263,149,No,25.0,< 1 Year,Good,Accident Cover,20
+39,3723,216,No,3.0,1-2 Year,Risky,Comprehensive,25
+39,3724,31,Yes,28.0,1-2 Year,Good,Health,5
+37,3044,293,No,13.0,1-2 Year,Risky,Health,20
+34,3823,156,No,18.0,1-2 Year,Risky,Accident Cover,20
+23,2560,256,Yes,15.0,< 1 Year,Good,Health,5
+49,263,88,No,28.0,1-2 Year,Risky,Comprehensive,15
+23,3330,147,Yes,41.0,< 1 Year,Good,Accident Cover,20
+22,2395,22,No,25.0,< 1 Year,Risky,Term Life,10
+22,263,219,No,20.0,< 1 Year,Risky,Accident Cover,15
+27,2237,50,Yes,41.0,< 1 Year,Good,Term Life,25
+50,5738,155,No,28.0,1-2 Year,Risky,Comprehensive,5
+27,3000,92,Yes,28.0,< 1 Year,Good,Term Life,5
+28,3260,131,Yes,37.0,< 1 Year,Good,Health,5
+25,3168,66,Yes,49.0,< 1 Year,Good,Accident Cover,15
+27,4065,260,Yes,8.0,< 1 Year,Good,Accident Cover,15
+43,263,19,No,41.0,1-2 Year,Risky,Health,15
+59,3277,158,No,39.0,1-2 Year,Risky,Comprehensive,10
+23,3363,22,No,36.0,< 1 Year,Risky,Comprehensive,25
+36,263,258,Yes,28.0,1-2 Year,Good,Health,25
+21,6216,116,Yes,29.0,< 1 Year,Good,Health,5
+21,2752,117,Yes,46.0,< 1 Year,Good,Term Life,20
+47,4208,62,Yes,41.0,1-2 Year,Good,Accident Cover,5
+25,3620,193,Yes,28.0,< 1 Year,Good,Comprehensive,5
+32,2732,204,No,46.0,1-2 Year,Risky,Health,25
+21,4051,212,Yes,3.0,< 1 Year,Good,Term Life,15
+23,5658,144,No,28.0,< 1 Year,Risky,Accident Cover,10
+27,3378,246,Yes,30.0,< 1 Year,Good,Accident Cover,25
+20,2832,78,Yes,39.0,< 1 Year,Good,Health,25
+38,3447,234,No,28.0,1-2 Year,Risky,Comprehensive,5
+22,7665,258,Yes,11.0,< 1 Year,Good,Accident Cover,5
+25,5438,206,No,8.0,< 1 Year,Risky,Accident Cover,10
+27,2673,282,No,28.0,< 1 Year,Risky,Term Life,5
+51,263,228,No,19.0,1-2 Year,Risky,Comprehensive,10
+53,4039,156,Yes,28.0,1-2 Year,Good,Health,25
+24,3459,125,Yes,22.0,< 1 Year,Good,Comprehensive,10
+49,3277,29,No,28.0,1-2 Year,Risky,Health,25
+41,5474,212,No,28.0,1-2 Year,Risky,Term Life,25
+41,2511,221,No,35.0,1-2 Year,Risky,Term Life,10
+23,2873,18,No,47.0,< 1 Year,Risky,Health,20
+31,2590,84,Yes,15.0,< 1 Year,Good,Comprehensive,5
+20,4191,206,Yes,3.0,< 1 Year,Good,Health,5
+70,263,230,Yes,25.0,1-2 Year,Good,Term Life,10
+78,4246,54,Yes,28.0,1-2 Year,Good,Comprehensive,10
+31,2939,123,Yes,28.0,1-2 Year,Good,Accident Cover,25
+48,263,189,Yes,36.0,1-2 Year,Good,Health,10
+25,2939,22,Yes,30.0,< 1 Year,Good,Term Life,25
+28,3757,258,No,44.0,1-2 Year,Risky,Term Life,15
+26,8928,101,No,8.0,< 1 Year,Risky,Health,5
+60,3038,114,Yes,28.0,1-2 Year,Good,Term Life,5
+28,3145,86,Yes,8.0,< 1 Year,Good,Comprehensive,5
+23,5246,243,Yes,36.0,< 1 Year,Good,Health,15
+22,3635,13,Yes,36.0,< 1 Year,Good,Accident Cover,20
+50,3628,237,No,28.0,1-2 Year,Risky,Term Life,25
+33,4089,85,Yes,36.0,< 1 Year,Good,Accident Cover,25
+24,2354,98,Yes,35.0,< 1 Year,Good,Accident Cover,15
+22,3452,67,Yes,36.0,< 1 Year,Good,Health,15
+25,10102,49,Yes,28.0,< 1 Year,Good,Accident Cover,20
+60,4288,229,No,45.0,1-2 Year,Good,Health,25
+46,6047,128,No,28.0,1-2 Year,Risky,Term Life,25
+45,2268,95,No,46.0,1-2 Year,Risky,Health,20
+30,4016,264,Yes,28.0,1-2 Year,Good,Health,25
+52,263,89,No,0.0,1-2 Year,Risky,Health,20
+47,2930,99,Yes,15.0,1-2 Year,Good,Comprehensive,25
+59,2882,29,Yes,41.0,1-2 Year,Good,Health,20
+51,5700,208,No,28.0,1-2 Year,Risky,Comprehensive,20
+52,263,134,Yes,0.0,1-2 Year,Good,Term Life,10
+48,4402,135,No,8.0,> 2 Years,Risky,Term Life,20
+42,3653,268,No,37.0,1-2 Year,Risky,Comprehensive,10
+45,2560,85,No,28.0,1-2 Year,Risky,Accident Cover,25
+27,2675,254,Yes,11.0,1-2 Year,Good,Health,15
+28,3773,30,Yes,8.0,< 1 Year,Good,Comprehensive,5
+24,2819,284,Yes,16.0,< 1 Year,Good,Health,15
+32,2384,183,Yes,46.0,< 1 Year,Good,Accident Cover,25
+21,3702,119,No,47.0,< 1 Year,Good,Accident Cover,5
+39,2946,166,Yes,28.0,1-2 Year,Good,Term Life,25
+55,2921,226,Yes,30.0,1-2 Year,Good,Accident Cover,10
+56,2913,229,No,15.0,1-2 Year,Good,Term Life,25
+42,3229,105,No,3.0,1-2 Year,Risky,Accident Cover,15
+26,263,142,Yes,26.0,< 1 Year,Good,Comprehensive,10
+42,4061,242,No,28.0,1-2 Year,Risky,Term Life,5
+55,4947,203,No,28.0,1-2 Year,Risky,Health,20
+41,2256,207,No,28.0,1-2 Year,Risky,Accident Cover,5
+22,2112,272,Yes,11.0,< 1 Year,Good,Term Life,15
+42,2422,66,No,8.0,1-2 Year,Good,Comprehensive,25
+30,3910,263,No,28.0,< 1 Year,Risky,Comprehensive,10
+21,2672,64,No,30.0,< 1 Year,Risky,Comprehensive,5
+23,1868,57,Yes,46.0,< 1 Year,Good,Comprehensive,20
+21,1919,40,No,6.0,< 1 Year,Risky,Term Life,15
+24,1857,245,Yes,6.0,< 1 Year,Good,Accident Cover,10
+26,5715,163,No,37.0,< 1 Year,Risky,Accident Cover,25
+48,3594,24,Yes,28.0,1-2 Year,Good,Comprehensive,15
+45,3320,243,No,28.0,1-2 Year,Risky,Accident Cover,10
+44,4275,23,No,28.0,> 2 Years,Risky,Health,5
+42,2875,102,No,45.0,1-2 Year,Good,Comprehensive,5
+44,3461,265,No,2.0,1-2 Year,Good,Health,20
+25,3428,202,No,9.0,< 1 Year,Good,Term Life,15
+60,6547,36,No,28.0,> 2 Years,Risky,Comprehensive,15
+21,3324,259,No,46.0,< 1 Year,Risky,Comprehensive,20
+22,3225,100,No,15.0,< 1 Year,Risky,Health,20
+23,2628,91,Yes,41.0,< 1 Year,Good,Comprehensive,5
+44,263,114,Yes,28.0,1-2 Year,Good,Comprehensive,5
+40,263,204,No,20.0,1-2 Year,Risky,Term Life,15
+21,4500,106,Yes,27.0,< 1 Year,Good,Health,5
+61,263,190,No,28.0,> 2 Years,Risky,Comprehensive,25
+75,4076,162,No,28.0,> 2 Years,Risky,Term Life,5
+53,4431,33,Yes,28.0,1-2 Year,Good,Accident Cover,15
+37,2909,194,Yes,8.0,1-2 Year,Good,Comprehensive,5
+29,4474,85,Yes,28.0,< 1 Year,Good,Comprehensive,25
+32,263,287,No,50.0,< 1 Year,Good,Term Life,15
+64,4169,287,Yes,28.0,1-2 Year,Risky,Accident Cover,15
+42,263,181,No,31.0,1-2 Year,Risky,Term Life,5
+24,3641,292,No,47.0,< 1 Year,Risky,Health,25
+53,263,69,No,0.0,1-2 Year,Risky,Comprehensive,20
+62,4467,239,No,15.0,1-2 Year,Good,Accident Cover,15
+25,3991,235,Yes,46.0,< 1 Year,Good,Term Life,20
+23,2957,281,No,39.0,< 1 Year,Risky,Accident Cover,20
+48,4472,132,No,33.0,1-2 Year,Risky,Term Life,5
+28,3833,245,Yes,15.0,< 1 Year,Good,Term Life,10
+33,2760,255,Yes,3.0,1-2 Year,Good,Accident Cover,10
+63,3100,281,No,28.0,> 2 Years,Risky,Accident Cover,25
+22,3074,147,Yes,46.0,< 1 Year,Good,Health,25
+27,2718,125,Yes,3.0,< 1 Year,Good,Accident Cover,5
+36,4043,230,No,28.0,1-2 Year,Risky,Health,25
+49,4555,49,No,28.0,1-2 Year,Risky,Accident Cover,5
+39,3514,116,No,46.0,1-2 Year,Good,Health,10
+21,3555,242,No,11.0,< 1 Year,Risky,Accident Cover,25
+57,3077,158,No,46.0,1-2 Year,Risky,Term Life,10
+43,2957,203,No,28.0,1-2 Year,Risky,Term Life,25
+25,263,167,No,27.0,< 1 Year,Good,Health,25
+41,3561,152,Yes,11.0,1-2 Year,Good,Comprehensive,25
+33,263,259,Yes,31.0,< 1 Year,Good,Comprehensive,10
+23,2488,111,Yes,12.0,< 1 Year,Good,Term Life,10
+20,3324,281,No,34.0,< 1 Year,Risky,Term Life,15
+36,4768,121,Yes,28.0,1-2 Year,Good,Health,25
